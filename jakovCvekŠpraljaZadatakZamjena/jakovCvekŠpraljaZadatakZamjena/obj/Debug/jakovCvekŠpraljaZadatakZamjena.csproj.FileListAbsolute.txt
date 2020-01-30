@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\jakovCvekŠpraljaZadatakZamjena\jakovCvekŠpraljaZadatakZamjena\bin\Debug\jakovCvekŠpraljaZadatakZamjena.exe.config
+C:\Users\3.D\source\repos\jakovCvekŠpraljaZadatakZamjena\jakovCvekŠpraljaZadatakZamjena\bin\Debug\jakovCvekŠpraljaZadatakZamjena.exe
+C:\Users\3.D\source\repos\jakovCvekŠpraljaZadatakZamjena\jakovCvekŠpraljaZadatakZamjena\bin\Debug\jakovCvekŠpraljaZadatakZamjena.pdb
+C:\Users\3.D\source\repos\jakovCvekŠpraljaZadatakZamjena\jakovCvekŠpraljaZadatakZamjena\obj\Debug\jakovCvekŠpraljaZadatakZamjena.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\jakovCvekŠpraljaZadatakZamjena\jakovCvekŠpraljaZadatakZamjena\obj\Debug\jakovCvekŠpraljaZadatakZamjena.Form1.resources
+C:\Users\3.D\source\repos\jakovCvekŠpraljaZadatakZamjena\jakovCvekŠpraljaZadatakZamjena\obj\Debug\jakovCvekŠpraljaZadatakZamjena.Properties.Resources.resources
+C:\Users\3.D\source\repos\jakovCvekŠpraljaZadatakZamjena\jakovCvekŠpraljaZadatakZamjena\obj\Debug\jakovCvekŠpraljaZadatakZamjena.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\jakovCvekŠpraljaZadatakZamjena\jakovCvekŠpraljaZadatakZamjena\obj\Debug\jakovCvekŠpraljaZadatakZamjena.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\jakovCvekŠpraljaZadatakZamjena\jakovCvekŠpraljaZadatakZamjena\obj\Debug\jakovCvekŠpraljaZadatakZamjena.exe
+C:\Users\3.D\source\repos\jakovCvekŠpraljaZadatakZamjena\jakovCvekŠpraljaZadatakZamjena\obj\Debug\jakovCvekŠpraljaZadatakZamjena.pdb
